@@ -3,10 +3,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char c1=-1;
-		char c2=100;
+		int a=55;
+		int b=10;
+		int c=2008;
+		int d=1999;
 		
-		System.out.println(c1);
-		System.out.println(c2);
+		System.out.println(%a, b)
+		System.out.println();
 	}
 }
